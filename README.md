@@ -1,5 +1,5 @@
 # iOS-Locations-Parser
-iOS device locations as of 2023-03-23
+iOS device locations as of 2023-03-23 (OUTDATED as of Google Earth changes)
 # THIS SCRIPT WILL EXECUTE THE QUEIRIES BELOW TO PARSE OUT DATA FOR THE SELECTED APPLICATION.
 # APPLICATION: iOS device locations as of 2023-03-23
 # DATABASES REQUIRED: Cache.sqlite
